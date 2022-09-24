@@ -8,7 +8,6 @@ const IsOnlineUser = {
 
 export const FriendList = ({ friends }) => {
     return (
-        
     <FriendsList>
     {friends.map(({ avatar, name, isOnline,id }) => (
         <Friend key = {id}>
