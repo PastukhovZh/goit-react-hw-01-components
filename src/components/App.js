@@ -19,7 +19,8 @@ export const App = () => {
             avatar={user.avatar}
             followers={user.stats.followers}
             views={user.stats.views}
-            likes= {user.stats.likes}
+          likes={user.stats.likes}
+          
         />
         <AppColumn>
         <Statistics
