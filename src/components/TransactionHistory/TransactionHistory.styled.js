@@ -11,7 +11,5 @@ margin-top: 25px;
 `
 export const TransactionTh = styled.th`
 border: 1px solid;
-  padding-left: 100px;
-  padding-right: 100px;
   background-color: burlywood;
   `

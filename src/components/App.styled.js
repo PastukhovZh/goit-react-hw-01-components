@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 export const AppWrap = styled.div`
-width: 800px;
+width: 700px;
 margin: 0 auto;
 
     display: flex;
